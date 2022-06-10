@@ -1,0 +1,13 @@
+{
+    "n_boids": 30,
+    "x": 20,
+    "y": 20,
+    "z": 20,
+    "speed": 0.1,
+    "i_max": 500,
+    "do_cache": false,
+    "anim_path": null,
+    "data_path": null,
+    "do_animation": false,
+    "realtime": false
+}
